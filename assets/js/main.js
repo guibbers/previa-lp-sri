@@ -160,7 +160,6 @@ $('.btn-group .btn').click(function() {
     const images = [      
       "url('assets/img/hero/Hero 1.1.jpg')",
       "url('assets/img/hero/Hero 2 - UERJ.jpg')",
-      "url('assets/img/hero/Hero 2.1.jpg')",
       "url('assets/img/hero/Hero 3 - Mangueira.jpg')",
       "url('assets/img/hero/Hero 3.1.jpg')",
       "url('assets/img/hero/Hero 4 - Museu.jpg')",
