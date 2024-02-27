@@ -23,6 +23,13 @@ a {
   transition: 0.5s;
 }
 
+.bi {
+  margin-right: 5px !important;
+}
+
+.accordion-button {
+  font-weight: 700 !important;
+}
 /*--------------------------------------------------------------
 # Sections and Section Header
 --------------------------------------------------------------*/
